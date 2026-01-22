@@ -1,0 +1,42 @@
+date,amount,category,subcategory,note,tax_deductible,currency,payment_method
+2023-01-12,12.0,business,hosting_domains,Domain renewal (portfolio),1,EUR,credit_card
+2023-01-12,8.0,business,hosting_domains,Hosting add-on / SSL,1,EUR,credit_card
+2023-02-10,349.0,business,office_supplies,Professional ergonomic chair for work,1,EUR,credit_card
+2023-02-10,219.0,business,office_supplies,Work desk/table (home office),1,EUR,credit_card
+2023-03-05,279.0,business,office_supplies,External monitor for work setup,1,EUR,credit_card
+2023-03-05,89.0,business,office_supplies,Ergonomic keyboard for work,1,EUR,credit_card
+2023-03-05,39.0,business,office_supplies,Laptop stand (work ergonomics),1,EUR,credit_card
+2023-04-20,129.0,education,courses,Online course (professional upskilling),1,EUR,credit_card
+2023-05-12,59.0,education,books,Technical book (work-related),1,EUR,credit_card
+2023-06-18,120.0,business,travel_business,Train ticket to conference,1,EUR,credit_card
+2023-06-18,320.0,business,travel_business,Hotel for conference trip,1,EUR,credit_card
+2023-06-19,450.0,education,workshops,Conference registration fee,1,EUR,bank_transfer
+2023-09-02,39.99,subscriptions,linkedin_premium,LinkedIn Premium (career / professional networking),1,EUR,credit_card
+2023-11-14,49.0,business,office_supplies,Printer ink/paper for work documents,1,EUR,credit_card
+2024-01-12,12.0,business,hosting_domains,Domain renewal (portfolio),1,EUR,credit_card
+2024-02-08,249.0,business,office_supplies,Second external monitor for work (dual display),1,EUR,credit_card
+2024-03-16,99.0,business,office_supplies,Webcam + microphone for remote work,1,EUR,credit_card
+2024-04-11,149.0,education,exam_fees,Certification exam fee (work-related),1,EUR,credit_card
+2024-06-07,85.0,business,travel_business,Local transport during conference trip (tickets),1,EUR,credit_card
+2024-06-07,280.0,business,travel_business,Hotel for conference trip,1,EUR,credit_card
+2024-06-08,420.0,education,workshops,Conference registration fee,1,EUR,bank_transfer
+2024-09-15,79.0,education,books,Reference book / textbook (work-related),1,EUR,credit_card
+2024-10-02,45.0,business,office_supplies,Notebook/Stationery for work,1,EUR,credit_card
+2025-01-12,12.0,business,hosting_domains,Domain renewal (portfolio),1,EUR,credit_card
+2025-02-06,89.0,business,office_supplies,External SSD for work backups,1,EUR,credit_card
+2025-03-22,199.0,business,office_supplies,Office chair accessories / ergonomic footrest,1,EUR,credit_card
+2025-05-09,169.0,education,courses,Advanced ML course (professional development),1,EUR,credit_card
+2025-06-13,140.0,business,travel_business,Train ticket to conference,1,EUR,credit_card
+2025-06-13,360.0,business,travel_business,Hotel for conference trip,1,EUR,credit_card
+2025-06-14,475.0,education,workshops,Conference registration fee,1,EUR,bank_transfer
+2025-10-18,59.0,education,books,Technical book (work-related),1,EUR,credit_card
+2025-12-03,35.0,business,office_supplies,Work-related stationery / cables,1,EUR,credit_card
+2026-01-12,12.0,business,hosting_domains,Domain renewal (portfolio),1,EUR,credit_card
+2026-02-04,129.0,business,office_supplies,Desk lamp + monitor arm (ergonomics),1,EUR,credit_card
+2026-03-08,59.0,subscriptions,professional_development,Professional newsletter / learning subscription,1,EUR,credit_card
+2026-04-17,199.0,education,exam_fees,Certification exam fee (work-related),1,EUR,credit_card
+2026-06-20,155.0,business,travel_business,Train ticket to conference,1,EUR,credit_card
+2026-06-20,390.0,business,travel_business,Hotel for conference trip,1,EUR,credit_card
+2026-06-21,495.0,education,workshops,Conference registration fee,1,EUR,bank_transfer
+2026-09-25,69.0,education,books,Technical book (work-related),1,EUR,credit_card
+2026-11-29,49.0,business,office_supplies,Office supplies (printer paper/ink),1,EUR,credit_card

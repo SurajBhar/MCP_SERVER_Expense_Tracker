@@ -1,0 +1,14 @@
+[project]
+name = "expense-tracker"
+version = "1.0.0"
+description = "Comprehensive expense tracking MCP server with analytics, visualizations, and German tax tracking"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=2.14.3",
+    "matplotlib>=3.10.8",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.0",
+    "plotly>=6.5.2",
+]
+

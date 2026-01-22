@@ -1,0 +1,15 @@
+id,date,amount,category,subcategory,note,tax_deductible,currency,payment_method
+456,2025-01-01,40.0,Health,Gym,Gym subscription,0,EUR,
+457,2025-01-01,22.0,Subscriptions,AI,Claude Code subscription,0,EUR,
+458,2025-01-01,25.0,Subscriptions,AI,ChatGPT subscription,0,EUR,
+459,2025-01-03,21.2,Food,Groceries,Groceries,0,EUR,
+460,2025-01-04,10.0,Telecom,SIM,SIM card plan,0,EUR,
+461,2025-01-05,100.0,Telecom,Internet,Vodafone home internet,0,EUR,
+462,2025-01-06,29.0,Telecom,Mobile,Vodafone mobile plan,0,EUR,
+463,2025-01-11,21.2,Food,Groceries,Groceries,0,EUR,
+929,2025-01-12,12.0,business,hosting_domains,Domain renewal (portfolio),1,EUR,credit_card
+464,2025-01-13,257.0,Insurance,Health Insurance,Health insurance premium,0,EUR,
+465,2025-01-14,21.2,Food,Groceries,Groceries,0,EUR,
+466,2025-01-14,21.2,Food,Eating Out,Eating out,0,EUR,
+467,2025-01-14,21.2,Food,Eating Out,Eating out,0,EUR,
+468,2025-01-15,21.2,Food,Eating Out,Eating out,0,EUR,
