@@ -154,7 +154,7 @@ Dates:
 
 ## Step-by-step test guide (copy/paste JSON)
 
-![MCP Inspector 1](imgs/mcp-1.png)
+![MCP Inspector 1](imgs/mcp_1.png)
 
 ### 1) Add an expense
 
